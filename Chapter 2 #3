@@ -1,0 +1,16 @@
+var y=""
+function Size(size){
+for(i=0;i<size;i++){
+   for(x=0;x<size;x++){
+      if((x+i)%2==0){
+          y+=" ";
+      }else{
+      y+="#";
+      }
+   }
+   y+="\n"
+}
+console.log(y);
+}
+
+Size(8);  
