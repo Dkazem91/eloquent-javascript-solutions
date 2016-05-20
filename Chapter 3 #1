@@ -1,0 +1,5 @@
+function Min(x,y){
+return Math.min(x,y);
+}
+console.log(Min(0,10));
+console.log(Min(0,-10));
