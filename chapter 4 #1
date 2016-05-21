@@ -1,0 +1,17 @@
+var arrayer=[]
+var range=function(start,end){
+   
+    for(i=start;i<=end;i++){
+        arrayer.push(i);
+    }
+    return arrayer;   
+};
+var sum=function(){
+var addup=0;
+for(i=0;i<=arrayer.length-1;i++){
+    addup+=arrayer[i];
+}
+return addup;
+}
+sum(range(1,10));
+
