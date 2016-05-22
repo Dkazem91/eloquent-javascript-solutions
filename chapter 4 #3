@@ -1,0 +1,41 @@
+array1=[1,2,3,4,5]
+
+
+ArrayToList= function(array){
+   
+    for(i=array.length-1;i>=0;i--){
+         var list={value:array[i],rest:list};
+    };
+    return list
+}
+
+ listToArray=function(list){
+     var array2=[]
+     for(var x=list;x;x=x.rest){
+         
+         array2.push(x.value);
+     }
+     return array2;
+ };     
+console.log(listToArray(ArrayToList(array1)));
+ function prepend(element,list2){
+     var list2={
+         value:element,
+         rest:list2
+     }
+     return list2;
+ }
+     console.log(prepend(10, prepend(20, null)));
+function nth(list,position){
+    if(!list){
+        return undefined;
+    };
+    if(position==0){
+        return list.value;
+    }else{
+        return nth(list.rest,position-1);
+    }
+}
+    console.log(nth(ArrayToList(array1),3));
+    
+    
