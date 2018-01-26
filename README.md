@@ -47,7 +47,7 @@ rm -rf node_modules/
 npm install
 ```
 
-## deploying locally
+## Deploying Locally
 ### Mongo
 - Create /data/db for mongo with user writable permissions
 ```shell
