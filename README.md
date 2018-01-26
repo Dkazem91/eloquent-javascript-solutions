@@ -28,7 +28,7 @@ npm install
 any additional required dependencies asked to install can be done with 
 
 ```shell
--npm install -g <program name>
+npm install -g <program name>
 ```
 
 ### Troubleshooting 
