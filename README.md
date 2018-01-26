@@ -18,6 +18,7 @@ It uses an isomorphic stack which utilizes:
 - packages - @sagebots/dolphin
 
 ## how to install for development
+Clone the repository to your local machine and then install dependencies once inside that directory. 
 ```shell
 git clone https://github.com/sage-bots/dolphin.git
 ```
