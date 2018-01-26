@@ -14,8 +14,7 @@ It uses an isomorphic stack which utilizes:
 ## Pre-Requisites
 ### operating system:
 - Linux – Ubuntu 14.04+
-- Windows - ? 
-- packages - @sagebots/dolphin
+- Vagrant/Virtual Box
 
 ## how to install for development
 Clone the repository to your local machine and then install dependencies once inside the dolphin directory.
