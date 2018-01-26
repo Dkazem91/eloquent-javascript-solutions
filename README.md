@@ -54,14 +54,8 @@ npm install
 sudo mkdir -p /data/db
 sudo chmod -R go+w /data/db
 ```
-- Start mongo on one terminal:
-```shell
-mongod
-```
-- In another terminal:
-```shell
-mongo
-```
+- Run `mongod` in one terminal and `mongo` in another:
+
 ### Dolphin and Mermaid
 - With Mermaid cloned to your work directory, run:
 ```shell
