@@ -33,8 +33,8 @@ any additional required dependencies asked to install can be done with
 
 ### Troubleshooting 
 If errors arise from outdated dependency versions while installing:
-- make sure OS is up-to-date.
-- update or rebuild npm:
+-- make sure OS is up-to-date.
+-- update or rebuild npm:
 ```shell
 npm update
 ```
