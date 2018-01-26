@@ -57,14 +57,11 @@ sudo chmod -R go+w /data/db
 - Run `mongod` in one terminal and `mongo` in another:
 
 ### Dolphin and Mermaid
-- With Mermaid cloned to your work directory, run:
+- navigate to the mermaid and dolphin directories on your local machine and run: 
 ```shell
 npm run dev
 ```
-- With dolphin cloned to your work directory, run:
-```shell
-npm run dev
-```
+#### Notes
 -  Dolphin will be available on http://localhost:3000/
 - create a login on http://localhost:3000/register?token=my-token
 - use this login at port 3000 for access to rest of website. 
