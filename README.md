@@ -1,6 +1,6 @@
 # Dolphin
 
-![alt text](https://vdk.colornumbers.ru/wa-data/public/shop/products/48/17/11748/images/8080/8080.900.jpg "Dolphin")
+![alt text](https://s-media-cache-ak0.pinimg.com/originals/48/ff/a3/48ffa351eec2f1bb021b15f05f372bdb.jpg "Shell")
 
 Dolphin is an administrative console and the web front-end side of Sagetalk.
 
