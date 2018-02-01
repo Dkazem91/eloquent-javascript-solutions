@@ -1,6 +1,6 @@
 # Shell
 
-![alt text](https://s-media-cache-ak0.pinimg.com/originals/48/ff/a3/48ffa351eec2f1bb021b15f05f372bdb.jpg =250x250 "Shell")
+![alt text](https://s-media-cache-ak0.pinimg.com/originals/48/ff/a3/48ffa351eec2f1bb021b15f05f372bdb.jpg "Shell"){:height="50%" width="50%"}
 
 Dolphin is an administrative console and the web front-end side of Sagetalk.
 
